@@ -27,6 +27,8 @@ public class Student extends College
 		s.studid();
 		s.studname();
 		s.Hostelname();
-		s.deptname();
+		s.deptname();// Karthi V
+		s.studname();
+		s.Hostelname();
 	}
 }
